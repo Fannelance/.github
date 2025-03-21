@@ -3,7 +3,6 @@
   <h1>Fannelance App</h1>
 </section>
 
-## Welcoming
 
 Welcome to the Fannelance App! This app is designed to help you quickly find and connect with the nearest skilled workers in your area to address your fannelance needs.
 
